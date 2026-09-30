@@ -4,7 +4,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Hi 👋 I'm Kamil,<br>🇵🇱 16-year-old developer from Małopolska, Poland.<br>💻 Interested in backend development, systems programming and learning how things work under the hood.</h4>
+<h4 data-importer="text" align="left">Hi 👋 I'm Kamil,<br>🇵🇱 17-year-old developer from Małopolska, Poland.<br>💻 Interested in backend development, systems programming and learning how things work under the hood.</h4>
 
 ###
 
